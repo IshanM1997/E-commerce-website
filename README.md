@@ -242,3 +242,14 @@ reviews         → id, product_id, customer_id, comment, rating
 | Auth | JWT (jjwt 0.11) |
 | External API | FakeStoreAPI (free, no key) |
 | Build | Maven (backend), Angular CLI (frontend) |
+
+
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Angular 17
+- **Backend:** Spring Boot 3.2, Spring Security, Spring Data JPA
+- **Database:** MySQL8
+- **Auth:** JWT (jjwt 0.11)
+-  **Build:** Maven (backend), Angular CLI (frontend)
+-  **External API:**FakeStoreAPI (free, no key)
